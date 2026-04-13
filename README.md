@@ -11,4 +11,4 @@ This is my personal portfolio website built using HTML and CSS.
 - CSS3
 
 ## Author
-Kareema – BCA Student & Front-End Developer
+Kareema – BCA Student & Back-end Developer
